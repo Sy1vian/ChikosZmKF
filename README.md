@@ -1,14 +1,13 @@
-# **L4D2 Competitive Rework**
+# **珠寶**
 
 **IMPORTANT NOTES** - **DON'T IGNORE THESE!**
-* The goal for this repo is to work on **Linux**, specifically Ubuntu/Debian.
-> There is Windows support in this repo, but not everything is, you are of course welcome to contribute to get Windows fully up to date! 
-* This repository only supports Sourcemod **1.11** and up.
+* 接受附上LOG和详细截图的issue.
+>哦哦
+
 
 ## **About:**
 
-This is mainly a project that focuses on reworking the very outdated platform for competitive L4D2 for **Linux** Servers.
-It will contain both much needed fixes that are simply unable to be implemented on the older sourcemod versions as well as incompatible and outdated files being updated to working versions.
+如果想获得支持可以联系我
 
 > **Included Matchmodes:**
 * **Zonemod 2.8.4**
@@ -24,12 +23,12 @@ It will contain both much needed fixes that are simply unable to be implemented 
 ---
 
 ## **Important Notes**
-* We've added "**mv_maxplayers**" that replaces sv_maxplayers in the Server.cfg, this is used to prevent it from being overwritten every map change.
-  * On config unload, the value will be to the value used in the Server.cfg
-* Every Confogl matchmode will now execute 2 additional files, namely "**sharedplugins.cfg**" and "**generalfixes.cfg**" which are located in your **left4dead2/cfg** folder.
-  * "**General Fixes**" simply ensures that all the Fixes discussed in here are loaded by every Matchmode.
-  * "**Shared Plugins**" is for you, the Server host. You surely have some plugins that you'd like to be loaded in every matchmode, you can define them here. 
-    * **NOTE:** Plugin load locking and unlocking is no longer handled by the Configs themselves, so if you're using this project do **NOT** define plugin load locks/unlocks within the configs you're adding manually.
+* 我们添加了"**mv_maxplayers**",它将在Server.cfg中替换sv_maxplayers,这样可以避免每次更换地图时被覆盖。
+  * 在配置卸载时,该值将恢复为Server.cfg中使用的值。
+* 每个Confogl比赛模式现在将执行两个额外的文件,即位于**left4dead2/cfg**文件夹中的"**sharedplugins.cfg**"和"**generalfixes.cfg**"。
+  * "**General Fixes**"简单地确保每个比赛模式都加载这里讨论的所有修复。
+  * "**Shared Plugins**"是为您服务器主机准备的。您肯定有一些希望在每个比赛模式中加载的插件,您可以在这里定义它们。
+    * **注意:** 插件加载锁定和解锁不再由配置本身处理,所以如果您使用此项目,请**不要**在手动添加的配置中定义插件加载锁定/解锁
 
 ---
 	
