@@ -1,7 +1,7 @@
 # **珠寶**
 
 **IMPORTANT NOTES** - **DON'T IGNORE THESE!**
-* 接受附上LOG和详细截图的issue.
+* 接受附上LOG和详细截图的Issue.
 >哦哦
 
 
@@ -38,7 +38,6 @@
 * MeiZi
 * SirP
 * YeJiong
-
 
 > **Additional Plugins/Extensions:**
 * Bred
