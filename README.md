@@ -36,69 +36,13 @@ It will contain both much needed fixes that are simply unable to be implemented 
 ## **Credits:**
 
 > **Foundation/Advanced Work:**
-* A1m`
-* AlliedModders LLC.
-* "Confogl Team"
-* Dr!fter
-* Forgetest
-* Jahze
-* Lux
-* Prodigysim
-* Silvers
-* XutaxKamay
-* Visor
+* MeiZi
+* SirP
+* YeJiong
+
 
 > **Additional Plugins/Extensions:**
-* Accelerator74
-* 
-* Arti 
-* AtomicStryker 
-* Backwards
-* BHaType
-* Blade 
-* Buster
-* Canadarox 
-* CircleSquared 
-* Darkid 
-* DarkNoghri
-* Dcx 
-* Devilesk
-* Die Teetasse 
-* Disawar1 
-* Don 
-* Dragokas
-* Dr. Gregory House
-* Epilimic 
-* Estoopi 
-* Griffin 
-* Harry Potter
-* Jacob 
-* Luckylock 
-* Madcap
-* Mr. Zero
-* Nielsen
-* Powerlord
-* Rena
-* Sheo
-* Sir
-* Spoon
-* Stabby 
-* Step 
-* Tabun
-* Target
-* TheTrick
-* V10 
-* Vintik
-* VoiDeD
-* xoxo
-* $atanic $pirit
-
-
-> **Competitive Mapping Rework:**
-* Derpduck
-
-> **Testing/Issue Reporting:**
-* Too many to list, keep up the great work in reporting issues!
+* Bred
 
 **NOTE:** If your work is being used and I forgot to credit you, my sincere apologies.  
 I've done my best to include everyone on the list, simply create an issue and name the plugin/extension you've made/contributed to and I'll make sure to credit you properly.
