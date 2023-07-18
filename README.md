@@ -1,6 +1,6 @@
 # **珠寶**
 
-### [English] | 中文(README-CN.md) 
+### English | [中文](README-CN.md) 
 **IMPORTANT NOTES** - **DON'T IGNORE THESE!**
 * Accept the issue with attached LOG and detailed screenshots.
 >NONE
