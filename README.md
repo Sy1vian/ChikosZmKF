@@ -9,7 +9,7 @@
 [![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://afdian.net/a/S1tsu "Donate")
 [![SteamGroup](https://img.shields.io/matrix/yt-dlp:matrix.org?color=brightgreen&labelColor=555555&label=&logo=element&style=for-the-badge)](https://steamcommunity.com/groups/chikkomod"Matrix")
 [![Discord](https://img.shields.io/discord/807245652072857610?color=blue&labelColor=555555&label=&logo=discord&style=for-the-badge)](https://discord.gg/mkaaG2am "Discord")
-[![Supported Sites](https://img.shields.io/badge/-Supported_Sites-brightgreen.svg?style=for-the-badge)](https://chikko.emu.ac.cn/"Supported Sites")
+[![Supported Sites](https://img.shields.io/badge/-Supported_Sites-brightgreen.svg?style=for-the-badge)](https://chikko.emu.ac.cn/ "Supported Sites")
 [![License: None](https://img.shields.io/badge/-Unlicense-blue.svg?style=for-the-badge)](LICENSE "License None")
 [![CI Status](https://img.shields.io/github/actions/workflow/status/yt-dlp/yt-dlp/core.yml?branch=master&label=Tests&style=for-the-badge)](https://github.com/yt-dlp/yt-dlp/actions "CI Status")
 [![Commits](https://img.shields.io/github/commit-activity/m/yt-dlp/yt-dlp?label=commits&style=for-the-badge)](https://github.com/yt-dlp/yt-dlp/commits "Commit History")
