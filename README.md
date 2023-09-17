@@ -30,7 +30,7 @@
 If you want support,  contact me.
 
 > **Included Matchmodes:**
-* **Zonemod 2.8.4**
+* **Zonemod 2.8.7**
 * **Zonemod Hunters**
 * **Zonemod Retro**
 * **NeoMod 0.4a** 
